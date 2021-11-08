@@ -9,8 +9,7 @@
     Account <i class="dropdown icon"></i>
     <div class="menu">
       <% if logged_in? %>
-        <%= link_to "Logout", logout_path, method: :delete, class: "item" %>
-        <a class="item">Log Out</a>
+        <%= link_to "Log Out", logout_path, method: :delete, class: "item" %>
       <% else %>
         <a><%= link_to("Log In", {controller: 'sessions', action: 'new'}, class: "item") %></a>
         <a class="item">Sign Up</a>
