@@ -15,3 +15,4 @@ Try it out on your machine:
 *view on localhost:3000
 
 ![example gif](/Users/merrynhurley-rawlins/Projects/rails/message_me/Screen Recording 2021-11-30 at 15.03.57.mov)
+
