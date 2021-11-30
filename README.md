@@ -1,24 +1,17 @@
-# README
+# MESSAGE ME APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Chatroom app with Action Cable. Messages are displayed in real time to the end user. Semantic UI used for styling.
 
 Things you may want to cover:
 
-* Ruby version
+Try it out on your machine:
 
-* System dependencies
+*Clone repo
 
-* Configuration
+*Open and run bundle
 
-* Database creation
+*run rails s to start server
 
-* Database initialization
+*view on localhost:3000
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![example gif](/Users/merrynhurley-rawlins/Projects/rails/message_me/Screen Recording 2021-11-30 at 15.03.57.mov)
