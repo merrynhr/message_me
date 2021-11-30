@@ -14,5 +14,4 @@ Try it out on your machine:
 
 *view on localhost:3000
 
-![example](/Users/merrynhurley-rawlins/Projects/rails/message_me/Screen_recording.mov)
 
