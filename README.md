@@ -1,7 +1,6 @@
-# README
+# MESSAGE ME APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Chatroom app with Action Cable. Messages are displayed in real time to the end user. Semantic UI used for styling.
 
 Things you may want to cover:
 
