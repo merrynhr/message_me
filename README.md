@@ -4,20 +4,12 @@ Chatroom app with Action Cable. Messages are displayed in real time to the end u
 
 Things you may want to cover:
 
-* Ruby version
+Try it out on your machine:
 
-* System dependencies
+*Clone repo
 
-* Configuration
+*Open and run bundle
 
-* Database creation
+*run rails s to start server
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*view on localhost:3000
