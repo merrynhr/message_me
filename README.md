@@ -2,17 +2,15 @@
 
 Chatroom app with Action Cable. Messages are displayed in real time to the end user. Semantic UI used for styling.
 
-Things you may want to cover:
-
 Try it out on your machine:
 
-*Clone repo
+1. Clone repo
 
-*Open and run bundle
+2. Open and run bundle
 
-*run rails s to start server
+3. run rails s to start server
 
-*view on localhost:3000
+4. view on localhost:3000
 
 
 
